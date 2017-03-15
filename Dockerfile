@@ -1,4 +1,4 @@
-FROM webdevops/apache:ubuntu-16.04
+FROM webdevops/apache:debian-9
 
 MAINTAINER Caleb Favor <caleb@drumeo.com>
 
