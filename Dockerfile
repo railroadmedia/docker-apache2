@@ -1,4 +1,4 @@
-FROM webdevops/apache:debian-9
+FROM webdevops/apache:debian-8
 
 MAINTAINER Caleb Favor <caleb@drumeo.com>
 
